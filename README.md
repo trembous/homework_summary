@@ -2,7 +2,6 @@
 datawhale作业
 <<<<<<< HEAD
 # test_0
-=======
 # test
 >>>>>>> parent of 4175597... Revert "Update README.md"
 1.最好下载下来用jupyter notebook打开
